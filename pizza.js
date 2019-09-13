@@ -1,3 +1,4 @@
+// Merijn Dreef Pizza calculator
 // small pizza prijs $9.00    medium pizza prijs $11,00     large pizza prijs $ 13,00
 var size = prompt("Wat voor afmeting pizza wilt u? U kunt kiezen uit small, medium en large"); 
 var hoeveelpizza = prompt("hoeveel pizza's wilt u?");
